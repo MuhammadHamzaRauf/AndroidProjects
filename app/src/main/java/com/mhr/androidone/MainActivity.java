@@ -143,5 +143,19 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Popular", " " + frontId);
     }
 
+    public void changesAreMade(View view){
+        Log.i("Popular", "Changes have been made in branch");
+    }
+
+
+    public void changesAreMade2(View view){
+        Log.i("Popular", "Changes have been made in branch");
+    }
+
+
+    public void changesAreMade3(View view){
+        Log.i("Popular", "Changes have been made in branch");
+    }
+
 
 }
