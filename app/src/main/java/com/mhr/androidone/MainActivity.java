@@ -153,4 +153,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void changesAreMade3(View view){
+        Log.i("Popular", "Changes have been made in branch");
+    }
+
+
 }
